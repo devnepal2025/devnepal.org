@@ -1,22 +1,22 @@
 ---
 layout: post
-title: Event report for TECH Setu First Monthly Meetup
+title: Event report for Developers Association of Nepal First Monthly Meetup
 date: 2021-06-23
 tags:
 - meetup
 - event
 status: publish
 type: post
-published: true
+published: false
 author: Bidhya Thapa
 proofreader: BRG
 thumbnail: blogs/meetups/meetup-1-thumb.jpg
 cover_img: blogs/meetups/meetup-1-thumb.jpg
 ---
 
-TECH Setu is a student-led non-profit initiative with a mission to bridge the gap between IT Industry and Students.
+Developers Association of Nepal is a student-led non-profit initiative with a mission to bridge the gap between IT Industry and Students.
 In the pursuit of our mission, we conducted our first monthly tech meetup on 12th June 2021, Saturday.
-Since it is the first monthly meetup of TECH setu, so preparing everything from scratch was a necessity.
+Since it is the first monthly meetup of Developers Association of Nepal, so preparing everything from scratch was a necessity.
 
 ## Pre-event Proceedings
 
@@ -28,7 +28,7 @@ For our first meetup, we selected our speakers through our friend circle or thos
 We had a brief meeting with our speakers to talk about their topics and for confirmation of the event.
 
 The promotion of the event started on 3rd June with the announcement of the Industry Speaker, _Mr. Bikalpa Dhakal_
-on the TECH Setu’s official Facebook page. The registration form was opened from the very first day.
+on the Developers Association of Nepal’s official Facebook page. The registration form was opened from the very first day.
 We used social platforms like _Facebook_ and _LinkedIn_ as our outreach and promotion platforms.
 Similarly, with a time gap of two to three days, we kept on posting about our event to grab the necessary
 attention of the potential audience. The announcement of two student speakers which includes female speaker
@@ -41,7 +41,7 @@ his invaluable insights on the __"Beautiful relationship between IT Degree and c
 ## Event Day
 
 The event started at its specified time from 4 pm onwards and officially ended at 6:30 pm. There were around
-50 participants which included the members of TECH Setu, mentors, and speakers. It was moderated by me and
+50 participants which included the members of Developers Association of Nepal, mentors, and speakers. It was moderated by me and
 Basanta. We welcomed and gave a brief introduction of the organization and its initiative. Along with a meeting
 with the Zoom app, the event was being live-streamed through our official YouTube channel.
 
@@ -63,7 +63,7 @@ the CV. Also, she urged students to join the community and equip themselves with
 
 {% include image.html path="blogs/meetups/meetup-1.2.jpg" %}
 
-Our other amazing student speaker __Mr. Asim Tara Pathak__, who is also an executive member of TECH Setu,
+Our other amazing student speaker __Mr. Asim Tara Pathak__, who is also an executive member of Developers Association of Nepal,
 talked about Smart study, time management techniques and urged everyone to share their knowledge in order to
 increase the horizon of one’s knowledge. He concluded his speech by requesting everyone not to limit
 themselves in the college syllabus and think out of the box.
@@ -71,7 +71,7 @@ themselves in the college syllabus and think out of the box.
 {% include image.html path="blogs/meetups/meetup-1.3.jpg" %}
 
 Lastly, our keynote speaker __Mr. Budh Ram Gurung__, who has nearly 10 years of experience in the IT field and
-_the initiator of TECH Setu_, shared his learnings and findings of IT education and students’ conditions in
+_the initiator of Developers Association of Nepal_, shared his learnings and findings of IT education and students’ conditions in
 Nepal based on his last two years of analysis. He talked about the different career pathways and roles as
 well as responsibilities in the IT field. The best part of his talk was the way he described the relationship
 between different college degrees and their industrial prospects.
@@ -86,9 +86,9 @@ We express our huge gratitude towards our amazing speakers _Mr. Bikalpa Dhakal, 
 _Mr. Asim Tara Pathak, and Mr. Budh Ram Gurung_ for sharing their journey, experiences, and insights with our
 audience.
 
-And, we are equally thankful to _our audience_ for making this first monthly meetup of TECH Setu a huge success.
+And, we are equally thankful to _our audience_ for making this first monthly meetup of Developers Association of Nepal a huge success.
 
-Last but not the least, congratulations to all the TECH Setu members who had put their hard work and effort
+Last but not the least, congratulations to all the Developers Association of Nepal members who had put their hard work and effort
 into conducting this event.
 
 We expect you all to meet you in the second monthly meetup as well.

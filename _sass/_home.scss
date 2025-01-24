@@ -74,13 +74,21 @@ header {
     height: 70vh;
 
     .banner-bg {
-      background: url($image_base_url + "/bg.jpg") no-repeat center center/cover;
+      background: url($asset_url + "/bg.jpg") no-repeat center center/cover;
       height: 100%;
     }
 
     h1 {
       color: #fff;
-      font-size: 2.8rem;
+      font-size: 3rem;
+    }
+    .note {
+      margin-top: 1.5rem;
+      background-color: rgb(243, 243, 243);
+      padding: 8px 1rem;
+      font-size: 15px;
+      color: red;
+      display: inline-block;
     }
     .tagline {
       margin: 2rem 0;
@@ -220,7 +228,7 @@ header {
   &:before {
     position: absolute;
     content: '';
-    background: url($image_base_url + "/footer-pattern.png");
+    background: url($asset_url + "/footer-pattern.png");
     width: 744px;
     height: 200px;
     top: 30px;

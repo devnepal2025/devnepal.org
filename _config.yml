@@ -1,17 +1,18 @@
-title: TECH Setu
-email: techsetuu@gmail.com
-year: 2023
+title: Developers Association of Nepal
+email: devnepal2025@gmail.com
+year: 2025
 description: >-
-  A non-profit initiative working on bridging the technological gap
-  among IT Industry, IT Students and IT Professionals.
+  A non-profit organization working for building the skilled
+  Software Developers workforce in Nepal
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://techsetu.github.io"
-image_base_url: https://techsetu.sirv.com/img
-# image_base_url: /assets/img
+url: "https://devnepal.org"
+channel: https://t.me/dev_nepal
+# asset_url: https://devnepal.sirv.com/img
+asset_url: /assets/img
 thumbnail: thumbnail.jpg
 
-twitter_username: '@tech_setu'
-google_analytics: G-6YGR4H8C5L
+# twitter_username: '@tech_setu'
+google_analytics:
 
 permalink: /blogs/:year/:month/:day/:title/
 

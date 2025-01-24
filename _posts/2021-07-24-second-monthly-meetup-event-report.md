@@ -16,7 +16,7 @@ cover_img: blogs/meetups/meetup2/thumb.jpg
 
 Recently, we conducted our second monthly tech meetup on __10th July 2021, Saturday__. Preparing for the second meet up was quite challenging, because we had already set a goal by the first meetup.
 
-About TECH Setu, it is a student-led non-profit initiative with a mission to bridge the gap between IT Industry and Students. And, monthly meetup is one of our initiatives where students share their learnings and engineers share their experiences.
+About Developers Association of Nepal, it is a student-led non-profit initiative with a mission to bridge the gap between IT Industry and Students. And, monthly meetup is one of our initiatives where students share their learnings and engineers share their experiences.
 
 ## Pre-event Proceedings
 
@@ -30,7 +30,7 @@ All the speakers were selected by the advice of our mentors and through a call t
 
 {% include image.html path="blogs/meetups/meetup2/call-for-proposal.jpg" %}
 
-The promotion of the event started on 27th June with the announcement of the Lightning Speaker, Mr. Nikhil Aryal on the TECH Setu’s official Facebook page. The registration form was opened from the very first day. We used social platforms like Facebook and LinkedIn as our outreach and promotion platforms. Similarly, with a time gap of a day, we kept on posting about our event to grab the necessary attention of the potential audience.
+The promotion of the event started on 27th June with the announcement of the Lightning Speaker, Mr. Nikhil Aryal on the Developers Association of Nepal’s official Facebook page. The registration form was opened from the very first day. We used social platforms like Facebook and LinkedIn as our outreach and promotion platforms. Similarly, with a time gap of a day, we kept on posting about our event to grab the necessary attention of the potential audience.
 
 The announcement of second Industry Speaker Miss Sima Thapa and then as Lightning Speakers was Mr. Budh Ram Gurung and Ebraj Gurung was announced by a couple of days after the previous speaker’s announcement.
 
@@ -38,7 +38,7 @@ Gradually, on 6th July we announced our Keynote Speaker Mr. Bishworaj Poudel who
 
 ## Event Day
 
-The event started at its specified time from 4 pm onwards and officially ended at 6:30 pm. There were around 60 participants which included the members of TECH Setu, mentors, and speakers. It was moderated by Miss. Bidya Thapa and Samrat Pudasaini. They welcomed and gave a brief introduction of the organization and its initiative. Along with a meeting with the Zoom app, the event was being live-streamed through our official YouTube channel.
+The event started at its specified time from 4 pm onwards and officially ended at 6:30 pm. There were around 60 participants which included the members of Developers Association of Nepal, mentors, and speakers. It was moderated by Miss. Bidya Thapa and Samrat Pudasaini. They welcomed and gave a brief introduction of the organization and its initiative. Along with a meeting with the Zoom app, the event was being live-streamed through our official YouTube channel.
 
 ### First Speaker as Industry Speaker
 
@@ -80,7 +80,7 @@ Mr. Ebraj Gurung gave us a brief talk and demo of an app called “POMODORO TIME
 
 ### Final Speaker as Lightning Speaker
 
-The final talk by our own TECH Setu mentor Mr. Budh Ram Gurung. He shared his idea on the topic of “Roadmap to Ninja Developer For Students”. He explained in his talk about “Who is a ninja developer?, Breadth and Depth knowledge, Roadmap for student and his final thoughts”. He had also given some proven advice like getting a mentor, peer to peer learning, skill of sharing knowledge and so on. He also suggested that one should find their own ways by remembering the phrase “APPO DEEPO BHAVA (Be a light unto yourself)” given by lord Buddha.
+The final talk by our own Developers Association of Nepal mentor Mr. Budh Ram Gurung. He shared his idea on the topic of “Roadmap to Ninja Developer For Students”. He explained in his talk about “Who is a ninja developer?, Breadth and Depth knowledge, Roadmap for student and his final thoughts”. He had also given some proven advice like getting a mentor, peer to peer learning, skill of sharing knowledge and so on. He also suggested that one should find their own ways by remembering the phrase “APPO DEEPO BHAVA (Be a light unto yourself)” given by lord Buddha.
 
 {% include image.html path="blogs/meetups/meetup2/sixth.jpg" %}
 

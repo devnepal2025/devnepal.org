@@ -2,8 +2,7 @@
 <nav class="navbar lower fixed-top shadow-sm navbar-expand-lg">
   <div class="container">
     <a href="/" class="brand">
-      <img src="{{ site.image_base_url }}/logo.png" alt="Logo">
-      <span class="font-playfair font-weight-bold">{{ site.title }}</span>
+      <img src="{{ site.asset_url }}/logo-full.png" alt="Logo">
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <i class='bx bx-menu'></i>
@@ -27,12 +26,12 @@
           </div>
         </li>
         -->
-        <li class="nav-item{% if page.page_name == 'events' %} active{% endif %}">
+        <!-- <li class="nav-item{% if page.page_name == 'events' %} active{% endif %}">
           <a class="nav-link" href="/events/">Events</a>
         </li>
         <li class="nav-item{% if page.page_name == 'blog' %} active{% endif %}">
           <a class="nav-link" href="/blogs/">Blogs</a>
-        </li>
+        </li> -->
         <!-- <li class="nav-item{% if page.page_name == 'apply' %} active{% endif %}">
           <a class="nav-link" href="/apply/">Apply</a>
         </li> -->
@@ -44,8 +43,10 @@
             </a>
 
             <div class="dropdown-menu text-center" aria-labelledby="dropdownMenuLink">
-              <a class="dropdown-item" href="/team/">Team</a>
-              <a class="dropdown-item" href="/orientation/">Member Orientation</a>
+              <!-- <a class="dropdown-item" href="/team/">Team</a>
+              <a class="dropdown-item" href="/orientation/">Member Orientation</a> -->
+              <a class="dropdown-item" href="/subscribe/">Subscribe</a>
+              <a class="dropdown-item" href="/code-of-conduct/">Code of Conduct</a>
             </div>
           </div>
         </li>
@@ -53,11 +54,3 @@
     </div>
   </div>
 </nav>
-<div class="archive-notice">
-  <div class="container">
-    <div class="col-md-12">
-      TECH Setu has been discountinued since Dec 2021.
-      Check <a href="https://codetoearn.dev">Code To Earn</a>.
-    </div>
-  </div>
-</div>

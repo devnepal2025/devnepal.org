@@ -7,19 +7,14 @@ html {
 html,
 body {
   height: 100%;
-}
-body {
-  font-family: "Poppins", Helvetica, Arial, sans-serif;
-  font-size: 15px;
-}
-.font-playfair {
-  font-family: "Playfair Display", serif;
+  font-family: "Red Hat Display", Helvetica, Arial, sans-serif;
+  font-size: 16px;
 }
 .font-primary {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Red Hat Display', sans-serif;
 }
 .font-secondary {
-  font-family: 'Open sans', sans-serif;
+  font-family: 'Merriweather', sans-serif;
 }
 .blue {
   color: #175EEE;
@@ -58,7 +53,7 @@ a, a:hover {
   height: 3450px;
 }
 .page-header {
-  background: url($image_base_url + "/page-header-bg.jpg") no-repeat center center/cover;
+  background: url($asset_url + "/page-header-bg.jpg") no-repeat center center/cover;
   padding: 4rem 0;
 
   h1 {

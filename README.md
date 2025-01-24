@@ -1,3 +1,3 @@
-# TECH Setu
+# Developers Association of Nepal
 
-Website repository for [TECH Setu](https://techsetu.org).
+Website repository for [Developers Association of Nepal](https://devnepal.org).
